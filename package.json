@@ -1,0 +1,27 @@
+{
+  "name": "netsh",
+  "version": "1.0.0",
+  "description": "misc win32 netsh helpers",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/131/netsh.git"
+  },
+  "keywords": [
+    "netsh",
+    "win32",
+    "wmic"
+  ],
+  "devDependencies": {
+    "eslint-plugin-ivs": "^1.3.0"
+  },
+  "author": "131 <131.js@cloudyks.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/131/netsh/issues"
+  },
+  "homepage": "https://github.com/131/netsh#readme"
+}
